@@ -5,14 +5,14 @@
 Sou Thiago César da Silva Farias, pernambucano de 26 anos e graduado em Ciências Contábeis pela UFPB. Tenho uma paixão por tecnologia e estou continuamente me especializando na área para aprimorar minhas habilidades e expandir meu conhecimento.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/thgcesar?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/thgcesar?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/thgcesar?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
